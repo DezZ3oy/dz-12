@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Getter Setter Suite">
+    <test name="GetterSetterTests">
+        <classes>
+            <class name="org.example.ManTest"/>
+            <class name="org.example.WomanTest"/>
+        </classes>
+    </test>
+</suite>
